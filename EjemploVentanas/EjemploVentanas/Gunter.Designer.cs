@@ -43,7 +43,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(94, 62);
+            this.button1.Location = new System.Drawing.Point(12, 22);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
@@ -52,7 +52,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(166, 145);
+            this.button2.Location = new System.Drawing.Point(52, 80);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 1;
@@ -61,7 +61,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(288, 62);
+            this.button3.Location = new System.Drawing.Point(211, 191);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 23);
             this.button3.TabIndex = 2;
@@ -70,7 +70,7 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(298, 283);
+            this.button4.Location = new System.Drawing.Point(211, 283);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(75, 23);
             this.button4.TabIndex = 3;
@@ -79,7 +79,7 @@
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(76, 270);
+            this.button5.Location = new System.Drawing.Point(94, 191);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(75, 23);
             this.button5.TabIndex = 4;
@@ -88,7 +88,7 @@
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(436, 62);
+            this.button6.Location = new System.Drawing.Point(234, 127);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(75, 23);
             this.button6.TabIndex = 5;
@@ -97,7 +97,7 @@
             // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(266, 191);
+            this.button7.Location = new System.Drawing.Point(94, 236);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(75, 23);
             this.button7.TabIndex = 6;
@@ -106,7 +106,7 @@
             // 
             // button8
             // 
-            this.button8.Location = new System.Drawing.Point(415, 250);
+            this.button8.Location = new System.Drawing.Point(104, 22);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(75, 23);
             this.button8.TabIndex = 7;
@@ -115,7 +115,7 @@
             // 
             // button9
             // 
-            this.button9.Location = new System.Drawing.Point(203, 250);
+            this.button9.Location = new System.Drawing.Point(94, 283);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(75, 23);
             this.button9.TabIndex = 8;
@@ -124,7 +124,7 @@
             // 
             // button10
             // 
-            this.button10.Location = new System.Drawing.Point(288, 119);
+            this.button10.Location = new System.Drawing.Point(211, 236);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(75, 23);
             this.button10.TabIndex = 9;
@@ -133,7 +133,7 @@
             // 
             // button11
             // 
-            this.button11.Location = new System.Drawing.Point(415, 163);
+            this.button11.Location = new System.Drawing.Point(185, 22);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(75, 23);
             this.button11.TabIndex = 10;
